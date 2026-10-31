@@ -1,0 +1,10 @@
+outputs/
+final_dataset/
+data/
+20260822_111126_kMNrC7/
+__pycache__
+.vscode/
+*.pptx
+plots.ipynb
+prototype.ipynb
+*.pdf
